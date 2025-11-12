@@ -43,15 +43,6 @@ GROQ_API_KEY = "your-groq-api-key-here"
 ```
 
 
-### Screenshot
-1) Uploading the document
-   ![image](https://github.com/user-attachments/assets/76ee41f3-10ea-4871-9aa3-4e1884a0c09f)
-2) Evaluates the quiz and shows the final score
-   ![image](https://github.com/user-attachments/assets/8bfde1ca-41c8-42f6-b010-240c367114e5)
-   ![image](https://github.com/user-attachments/assets/318dfc68-8aab-4d91-9d7b-ceff192cd41e)
-3) Option to download for further revision
-   ![image](https://github.com/user-attachments/assets/43bab416-d00f-4c0b-baa2-c95014fd85be)
-
 
 
 ### 💡 Use Cases
@@ -79,7 +70,7 @@ GROQ_API_KEY = "your-groq-api-key-here"
 📤 python-docx
 
 ### 👩‍💻 Author
-Kashish Seth
-📧 Email: kseth9852@gmail.com
+Khushi Yadav
+
 
 For queries, support, or collaboration — feel free to reach out!
